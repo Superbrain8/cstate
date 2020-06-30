@@ -30,10 +30,10 @@ params:
   disableIncidentHistory: true
   ok: "#008000"
   categories:
-    - name: Database
-      closed: true
-      untited: true
     - name: Bots
+      untited: true
+    - name: Database
+      closed: false
       untited: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
