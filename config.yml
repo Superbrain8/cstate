@@ -13,10 +13,10 @@ params:
       description: Main Database Cluster
     - name: Cephalon Mechka
       category: Bots
-      description: https://discordapp.com/oauth2/authorize?client_id=570548648098791435&scope=bot&permissions=8
+      description: ""
     - name: Stonks
       category: Bots
-      description: https://discordapp.com/oauth2/authorize?client_id=707599916586893354&scope=bot&permissions=11264
+      description: ""
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#0a0c0f"
   headerTextColor: white
